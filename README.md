@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jamshi-55/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/jamshi-55/leetcode/tree/master/0066-plus-one) |
+| [1848-sum-of-unique-elements](https://github.com/jamshi-55/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jamshi-55/leetcode/tree/master/0001-two-sum) |
+| [1848-sum-of-unique-elements](https://github.com/jamshi-55/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamshi-55/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/jamshi-55/leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
