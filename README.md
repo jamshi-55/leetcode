@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jamshi-55/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/jamshi-55/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jamshi-55/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/jamshi-55/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/jamshi-55/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamshi-55/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/jamshi-55/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/jamshi-55/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/jamshi-55/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
