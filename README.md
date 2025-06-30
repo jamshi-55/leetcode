@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamshi-55/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/jamshi-55/leetcode/tree/master/0058-length-of-last-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jamshi-55/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
