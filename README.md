@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jamshi-55/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/jamshi-55/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/jamshi-55/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jamshi-55/leetcode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jamshi-55/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jamshi-55/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamshi-55/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/jamshi-55/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jamshi-55/leetcode/tree/master/0349-intersection-of-two-arrays) |
