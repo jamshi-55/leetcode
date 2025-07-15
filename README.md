@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jamshi-55/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jamshi-55/leetcode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/jamshi-55/leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/jamshi-55/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/jamshi-55/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/jamshi-55/leetcode/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/jamshi-55/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
